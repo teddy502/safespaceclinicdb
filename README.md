@@ -24,6 +24,8 @@ The goal is to simulate a real-world clinical booking system with **complex rela
 ## 🚀 How to Set Up the Project
 
 1. Clone the repo or download the `.sql` file.
+   https://github.com/teddy502/safespaceclinicdb.git
+   
 
 ```bash
 
